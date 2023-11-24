@@ -11,6 +11,10 @@ schemes:
     name: TCP BBR
     color: gold
     marker: '^'
+  satccq:
+    name: SATCC-q
+    color: red
+    marker: ','
   ledbat:
     name: LEDBAT
     color: green
@@ -41,7 +45,7 @@ schemes:
     marker: 'v'
   copa:
     name: Copa
-    color: red
+    color: yellow
     marker: 'o'
   taova:
     name: TaoVA-100x
