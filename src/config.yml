@@ -31,6 +31,10 @@ schemes:
     name: Sprout
     color: orange
     marker: 'p'
+  reno:
+    name: TCP Reno
+    color: green
+    marker: '<'
   quic:
     name: QUIC Cubic
     color: magenta
