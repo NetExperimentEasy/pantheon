@@ -3,6 +3,7 @@
 *.txt
 *.pdf
 /tmp/
+result*
 
 ##### Python
 
